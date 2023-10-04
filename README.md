@@ -40,3 +40,10 @@ The game will flow for the player as follows:
 - I have now a small understanding of Beamable with a good understanding of implamanting some aspects of it
 - I have a good understanding of some of the basic capabilities of Nakama. I do feel that the way I set everything up can be improved to an industry standard and I am keen to do so be it with SuperNimbus or later in my future.
 - extrusion tools for splines, in particular for complex shapes such as archs
+
+## Linking back to the brief
+For this project, as mentioned earlier, I focussed on section 1 & 2 of the brief. I used Unity's Mirror as the multiplayer tool, and Nakama as the backend system. The two combine noticeably in terms of the usernames being used through the scenes. Using Nakama, I was able to set up user authentication with login/creation of accounts with an email and password. When creating an account, the player can add a custom username. Any errors through this process are reported back to the player. I looked into Leaderboards and I feel I am able to add to leaderboards, however I struggled in creating the leaderboard in the firstplace. From looking into adding friends and messaging services through Nakama, I feel these are features that I can add, especially with more practice.
+
+Mirror is used for the main Multiplayer aspects. Players are brought into a lobby where they can see their Nakama usernames, brought from there into a race, and finally brought back to a leaderboard screen which as previously mentioned, does not work. I feel that I have implamented some Mirror features well. Some maybe not that good due to having to learn some of them again near from scratch, but parts such as the lobby, I am proud of. 
+
+The systems build off eachother with the username, and I had hoped to do so further with the leaderboards. It is something for sure that I would love to get better at as my career in games development continues.
