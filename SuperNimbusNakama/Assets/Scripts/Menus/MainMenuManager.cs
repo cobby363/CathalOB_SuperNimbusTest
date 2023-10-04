@@ -8,7 +8,7 @@ using UnityEngine;
 public class MainMenuManager : MonoBehaviour
 {
     #region Variables
-    [SerializeField] GameObject MainMenu, NewGame, Settings, JoinGame;
+    [SerializeField] GameObject MainMenu, NewGame, JoinGame;
     
     #endregion
 
@@ -17,7 +17,6 @@ public class MainMenuManager : MonoBehaviour
     {
         MainMenu.SetActive(true);
         NewGame.SetActive(false);
-        Settings.SetActive(false);
     }
 
     // Update is called once per frame
@@ -35,21 +34,18 @@ public class MainMenuManager : MonoBehaviour
     {
         MainMenu.SetActive(false);
         NewGame.SetActive(true);
-        Settings.SetActive(false);
     }
 
     public void SettingsButtonPressed()
     {
         MainMenu.SetActive(false);
         NewGame.SetActive(false);
-        Settings.SetActive(true);
     }
 
     public void NewGameBackButtonPressed()
     {
         MainMenu.SetActive(true);
         NewGame.SetActive(false);
-        Settings.SetActive(false);
     }
 
     public void HostLobby()
