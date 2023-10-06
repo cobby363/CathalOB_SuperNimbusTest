@@ -58,7 +58,8 @@ public class Player : NetworkBehaviour
     public void GetFinalTime()
     {
         if (!isOwned) return;
-        finalRaceTime = (float)(NetworkTime.time - COBNetworkManager.raceStartTime); 
+        finalRaceTime = (float)(NetworkTime.time - COBNetworkManager.raceStartTime);
+        SubmitLeaderboardScore();
         CmdFinishedRace();
 
         float minutes = Mathf.FloorToInt(finalRaceTime / 60);
@@ -183,7 +184,6 @@ public class Player : NetworkBehaviour
         GameObject.Find("NetworkManager").GetComponent<COBNetworkManager>().PlayerFinishedRace();
     }
 
-    [Client]
     public async void SubmitLeaderboardScore()
     {
         if (!isOwned) return;

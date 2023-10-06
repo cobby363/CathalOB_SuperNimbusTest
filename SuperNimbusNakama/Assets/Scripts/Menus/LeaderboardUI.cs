@@ -1,6 +1,7 @@
 using Nakama;
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using TMPro;
 using UnityEngine;
 
@@ -45,6 +46,7 @@ public class LeaderboardUI : MonoBehaviour
         int rank = 1;
         string localId = session.UserId;
 
+        Debug.Log("Amount of records: " + recordList.Count());
         foreach (IApiLeaderboardRecord record in recordList)
         {
             LeaderboardEntry entry = Instantiate(leaderboardEntryPrefab, userList);

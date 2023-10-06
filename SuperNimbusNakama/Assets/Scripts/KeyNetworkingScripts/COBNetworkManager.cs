@@ -100,7 +100,6 @@ public class COBNetworkManager : NetworkManager
                     player.RpcUpdateCountdown(currentCountDown);
                 }
                 currentCountDown = newCeilTime;
-                Debug.Log("Current Count Down 2: " + currentCountDown);
             }
                 remainingTime -= Time.deltaTime;
         }
@@ -133,7 +132,6 @@ public class COBNetworkManager : NetworkManager
     public void PlayerFinishedRace()
     {
         finishedPlayers++;
-        Debug.Log("Running playerfinished race. finished racer number is: " + finishedPlayers);
         
         if(finishedPlayers == players.Count)
         {

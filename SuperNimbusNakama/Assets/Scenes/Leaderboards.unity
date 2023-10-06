@@ -1667,7 +1667,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   leaderboardEntryPrefab: {fileID: 6270967114517099906, guid: 0ca84b702530c50429a192083fca74ac, type: 3}
-  userList: {fileID: 0}
+  userList: {fileID: 1401342049}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

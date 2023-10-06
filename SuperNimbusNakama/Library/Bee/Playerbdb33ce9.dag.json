@@ -455,7 +455,7 @@
       "DisplayName": "Writing boot.config_tyr4.info",
       "ActionType": "WriteFile",
       "PayloadOffset": 83,
-      "PayloadLength": 17829,
+      "PayloadLength": 18247,
       "PayloadDebugContentSnippet": "{\"System.Object\":null,\"Bee.Tun",
       "Inputs": [],
       "Outputs": [
@@ -561,28 +561,28 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.WindModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.XRModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.dll",
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/NakamaRuntime.dll",
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/NakamaEditor.dll",
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/Mirror.dll",
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/Mirror.Transports.dll",
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/Mirror.Components.dll",
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/Telepathy.dll",
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/Dreamteck.Splines.dll",
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/SimpleWebTransport.dll",
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/Mirror.Authenticators.dll",
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/Mirror.Examples.dll",
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/Dreamteck.Utilities.dll",
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/kcp2k.dll",
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Assets/Packages/Nakama/Runtime/Plugins/Satori.dll",
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Assets/Packages/Nakama/Runtime/Plugins/Nakama.dll",
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/PackageCache/com.unity.visualscripting@1.9.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/NakamaRuntime.dll",
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/NakamaEditor.dll",
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/Mirror.dll",
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/Mirror.Transports.dll",
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/Mirror.Components.dll",
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/Telepathy.dll",
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/Dreamteck.Splines.dll",
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/SimpleWebTransport.dll",
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/Mirror.Authenticators.dll",
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/Mirror.Examples.dll",
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/Dreamteck.Utilities.dll",
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/kcp2k.dll",
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Assets/Packages/Nakama/Runtime/Plugins/Satori.dll",
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Assets/Packages/Nakama/Runtime/Plugins/Nakama.dll",
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/PackageCache/com.unity.visualscripting@1.9.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Facades/netstandard.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Mono.Security.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/System.ComponentModel.Composition.dll",
@@ -1488,7 +1488,7 @@
       "DisplayName": "Copying Assembly-CSharp.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll"
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll"
       ],
       "Outputs": [
         "C:/Users/catha/Documents/Unity Stuffs/NakamaBuild/SuperNimbusNakama_Data/Managed/Assembly-CSharp.dll"
@@ -1500,7 +1500,7 @@
       "DisplayName": "Copying NakamaRuntime.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/NakamaRuntime.dll"
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/NakamaRuntime.dll"
       ],
       "Outputs": [
         "C:/Users/catha/Documents/Unity Stuffs/NakamaBuild/SuperNimbusNakama_Data/Managed/NakamaRuntime.dll"
@@ -1512,7 +1512,7 @@
       "DisplayName": "Copying NakamaEditor.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/NakamaEditor.dll"
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/NakamaEditor.dll"
       ],
       "Outputs": [
         "C:/Users/catha/Documents/Unity Stuffs/NakamaBuild/SuperNimbusNakama_Data/Managed/NakamaEditor.dll"
@@ -1524,7 +1524,7 @@
       "DisplayName": "Copying Mirror.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/Mirror.dll"
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/Mirror.dll"
       ],
       "Outputs": [
         "C:/Users/catha/Documents/Unity Stuffs/NakamaBuild/SuperNimbusNakama_Data/Managed/Mirror.dll"
@@ -1536,7 +1536,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Core.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll"
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll"
       ],
       "Outputs": [
         "C:/Users/catha/Documents/Unity Stuffs/NakamaBuild/SuperNimbusNakama_Data/Managed/Unity.VisualScripting.Core.dll"
@@ -1548,7 +1548,7 @@
       "DisplayName": "Copying UnityEngine.UI.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll"
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll"
       ],
       "Outputs": [
         "C:/Users/catha/Documents/Unity Stuffs/NakamaBuild/SuperNimbusNakama_Data/Managed/UnityEngine.UI.dll"
@@ -1560,7 +1560,7 @@
       "DisplayName": "Copying Mirror.Transports.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/Mirror.Transports.dll"
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/Mirror.Transports.dll"
       ],
       "Outputs": [
         "C:/Users/catha/Documents/Unity Stuffs/NakamaBuild/SuperNimbusNakama_Data/Managed/Mirror.Transports.dll"
@@ -1572,7 +1572,7 @@
       "DisplayName": "Copying Mirror.Components.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/Mirror.Components.dll"
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/Mirror.Components.dll"
       ],
       "Outputs": [
         "C:/Users/catha/Documents/Unity Stuffs/NakamaBuild/SuperNimbusNakama_Data/Managed/Mirror.Components.dll"
@@ -1584,7 +1584,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Flow.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll"
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll"
       ],
       "Outputs": [
         "C:/Users/catha/Documents/Unity Stuffs/NakamaBuild/SuperNimbusNakama_Data/Managed/Unity.VisualScripting.Flow.dll"
@@ -1596,7 +1596,7 @@
       "DisplayName": "Copying Telepathy.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/Telepathy.dll"
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/Telepathy.dll"
       ],
       "Outputs": [
         "C:/Users/catha/Documents/Unity Stuffs/NakamaBuild/SuperNimbusNakama_Data/Managed/Telepathy.dll"
@@ -1608,7 +1608,7 @@
       "DisplayName": "Copying Dreamteck.Splines.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/Dreamteck.Splines.dll"
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/Dreamteck.Splines.dll"
       ],
       "Outputs": [
         "C:/Users/catha/Documents/Unity Stuffs/NakamaBuild/SuperNimbusNakama_Data/Managed/Dreamteck.Splines.dll"
@@ -1620,7 +1620,7 @@
       "DisplayName": "Copying Unity.Timeline.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll"
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll"
       ],
       "Outputs": [
         "C:/Users/catha/Documents/Unity Stuffs/NakamaBuild/SuperNimbusNakama_Data/Managed/Unity.Timeline.dll"
@@ -1632,7 +1632,7 @@
       "DisplayName": "Copying SimpleWebTransport.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/SimpleWebTransport.dll"
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/SimpleWebTransport.dll"
       ],
       "Outputs": [
         "C:/Users/catha/Documents/Unity Stuffs/NakamaBuild/SuperNimbusNakama_Data/Managed/SimpleWebTransport.dll"
@@ -1644,7 +1644,7 @@
       "DisplayName": "Copying Mirror.Authenticators.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/Mirror.Authenticators.dll"
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/Mirror.Authenticators.dll"
       ],
       "Outputs": [
         "C:/Users/catha/Documents/Unity Stuffs/NakamaBuild/SuperNimbusNakama_Data/Managed/Mirror.Authenticators.dll"
@@ -1656,7 +1656,7 @@
       "DisplayName": "Copying Mirror.Examples.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/Mirror.Examples.dll"
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/Mirror.Examples.dll"
       ],
       "Outputs": [
         "C:/Users/catha/Documents/Unity Stuffs/NakamaBuild/SuperNimbusNakama_Data/Managed/Mirror.Examples.dll"
@@ -1668,7 +1668,7 @@
       "DisplayName": "Copying Unity.TextMeshPro.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll"
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll"
       ],
       "Outputs": [
         "C:/Users/catha/Documents/Unity Stuffs/NakamaBuild/SuperNimbusNakama_Data/Managed/Unity.TextMeshPro.dll"
@@ -1680,7 +1680,7 @@
       "DisplayName": "Copying Unity.VisualScripting.State.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll"
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll"
       ],
       "Outputs": [
         "C:/Users/catha/Documents/Unity Stuffs/NakamaBuild/SuperNimbusNakama_Data/Managed/Unity.VisualScripting.State.dll"
@@ -1692,7 +1692,7 @@
       "DisplayName": "Copying Dreamteck.Utilities.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/Dreamteck.Utilities.dll"
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/Dreamteck.Utilities.dll"
       ],
       "Outputs": [
         "C:/Users/catha/Documents/Unity Stuffs/NakamaBuild/SuperNimbusNakama_Data/Managed/Dreamteck.Utilities.dll"
@@ -1704,7 +1704,7 @@
       "DisplayName": "Copying kcp2k.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/PlayerScriptAssemblies/kcp2k.dll"
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/PlayerScriptAssemblies/kcp2k.dll"
       ],
       "Outputs": [
         "C:/Users/catha/Documents/Unity Stuffs/NakamaBuild/SuperNimbusNakama_Data/Managed/kcp2k.dll"
@@ -1716,7 +1716,7 @@
       "DisplayName": "Copying Satori.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Assets/Packages/Nakama/Runtime/Plugins/Satori.dll"
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Assets/Packages/Nakama/Runtime/Plugins/Satori.dll"
       ],
       "Outputs": [
         "C:/Users/catha/Documents/Unity Stuffs/NakamaBuild/SuperNimbusNakama_Data/Managed/Satori.dll"
@@ -1728,7 +1728,7 @@
       "DisplayName": "Copying Nakama.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Assets/Packages/Nakama/Runtime/Plugins/Nakama.dll"
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Assets/Packages/Nakama/Runtime/Plugins/Nakama.dll"
       ],
       "Outputs": [
         "C:/Users/catha/Documents/Unity Stuffs/NakamaBuild/SuperNimbusNakama_Data/Managed/Nakama.dll"
@@ -1740,7 +1740,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Antlr3.Runtime.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/PackageCache/com.unity.visualscripting@1.9.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+        "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/PackageCache/com.unity.visualscripting@1.9.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
       ],
       "Outputs": [
         "C:/Users/catha/Documents/Unity Stuffs/NakamaBuild/SuperNimbusNakama_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll"
@@ -2003,7 +2003,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info",
       "DisplayName": "Writing app.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 18001,
+      "PayloadOffset": 18419,
       "PayloadLength": 32,
       "PayloadDebugContentSnippet": "DefaultCompany\nSuperNimbusNaka",
       "Inputs": [],
@@ -2692,6 +2692,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/Playerbdb33ce9.dag.json",
-  "PayloadsFile": "C:/Users/catha/Documents/Unity Stuffs/SuperNimbusNakata/Library/Bee/Playerbdb33ce9.dag.payloads",
+  "PayloadsFile": "C:/Users/catha/Documents/GitHub/CathalOB_SuperNimbusTest/SuperNimbusNakama/Library/Bee/Playerbdb33ce9.dag.payloads",
   "RelativePathToRoot": "../.."
 }
